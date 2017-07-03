@@ -38,3 +38,4 @@
 
 - `.md` ファイルを開く
 - `Command` + `Shift` + `V`
+  - `Command` + `K` > `V`
