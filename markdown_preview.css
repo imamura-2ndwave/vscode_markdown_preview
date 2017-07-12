@@ -4,8 +4,8 @@ body {
   background: white;
   color: #24292e;
   font-weight: 500;
+  font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 }
-
 
 /* 見出し関係のスタイル */
 h1,
